@@ -10,12 +10,15 @@ This class is an easy choice for those new to Vortex.
 
 | Stat                          |       |
 | -------------                 | ---   |
-| Max HP at lvl 0               | 80    |
-| Max HP per lvl                | 2     |
-| Max armor at lvl 0            | 50    |
-| Max armor per lvl             | 2     |
+| Max HP at lvl 0               | 100   |
+| Max HP per lvl                | 1     |
+| Max armor at lvl 0            | 40    |
+| Max armor per even lvl?       | 5     |
 | Max powercubes at lvl 0       | 200   |
 | Max powercubes per lvl        | 10    |
+| Max Rocket Ammo at lvl 0      | 50    |
+| Max Rocket Ammo per lvl       | 0     |
+
 
 ### Abilities
 
@@ -23,13 +26,13 @@ At level 0, the Soldier starts out with 3 points in [Grapple Hook](../abilities/
 
 |                   Ability                         | Max |
 | -------------------------------------------       | --- |
-| [Strength](../abilities/strength.md)              | 20  |
-| [Resistance](../abilities/resistance.md)          | 15  |
-| [HA Pickup](../abilities/ha_pickup.md)            | 15  |
-| [Napalm](../abilities/napalm.md)                  | 15  |
-| [Spike Grenade](../abilities/spike_grenade.md)    | 15  |
-| [EMP](../abilities/emp.md)                        | 15  |
-| [MIRV](../abilities/mirv.md)                      | 15  |
+| [Strength](../abilities/strength.md)              | 10  |
+| [Resistance](../abilities/resistance.md)          | 10  |
+| [HA Pickup](../abilities/ha_pickup.md)            | 10  |
+| [Napalm](../abilities/napalm.md)                  | 10  |
+| [Spike Grenade](../abilities/spike_grenade.md)    | 10  |
+| [EMP](../abilities/emp.md)                        | 10  |
+| [MIRV](../abilities/mirv.md)                      | 10  |
 | [Auto Quad](../abilities/auto_quad.md)            | 1   |
 | [Auto Invin](../abilities/auto_invin.md)          | 1   |
 | [Grapple Hook](../abilities/grapple_hook.md)      | 3   |
@@ -39,4 +42,9 @@ At level 0, the Soldier starts out with 3 points in [Grapple Hook](../abilities/
 * [Imp. Resist](../talents/imp_resist.md)
 * [Blood of Ares](../talents/blood_of_ares.md)
 * [Improved H/A](../talents/improved_ha.md)
+* [Blast Resist](../talents/blastresist.md)
+* [Magmine Self](../talents/magmineself.md)
 * [Bombardier](../talents/bombardier.md)
+* [Instant Proxys](../talents/instantproxys.md)
+
+
