@@ -8,12 +8,12 @@ building and maintaining devices that deal damage to the enemy.
 
 | Stat                          |       |
 | -------------                 | ---   |
-| Max HP at lvl 0               | 110   |
+| Max HP at lvl 0               | 100   |
 | Max HP per lvl                | 2     |
-| Max armor at lvl 0            | 50    |
-| Max armor per lvl             | 5     |
+| Max armor at lvl 0            | 35    |
+| Max armor per lvl             | 6     |
 | Max powercubes at lvl 0       | 200   |
-| Max powercubes per lvl        | 10    |
+| Max powercubes per lvl        | 15    |
 
 ### Abilities
 
@@ -21,20 +21,21 @@ At level 0, the Engineer starts out with 1 point in [Antigrav](../abilities/anti
 
 |                   Ability                         | Max |
 | -------------------------------------------       | --- |
-| [Proxy](../abilities/proxy.md)                    | 15  |
-| [Sentry](../abilities/sentry.md)                  | 20  |
-| [Supply Station](../abilities/supply_station.md)  | 15  |
-| [Laser](../abilities/laser.md)                    | 15  |
-| [Magmine](../abilities/magmine.md)                | 20  |
-| [Caltrops](../abilities/caltrops.md)              | 15  |
-| [Autocannon](../abilities/autocannon.md)          | 15  |
-| [Detector](../abilities/detector.md)              | 15  |
-| [Decoy](../abilities/decoy.md)                    | 15  |
+| [Supply Station](../abilities/supply_station.md)  | 10  |
+| [Lasers](../abilities/laser.md)                   | 10  |
+| [Sentry Gun](../abilities/sentry.md)              | 10  |
+| [Proxy Grenade](../abilities/proxy.md)            | 10  |
 | [Antigrav](../abilities/antigrav.md)              | 1   |
+| [Mag Mine](../abilities/magmine.md)               | 10  |
+| [Exploding Armor](../abilities/explodingarmor.md) | 10  |
+| [Auto Cannon](../abilities/autocannon.md)         | 10  |
+| [Caltrops](../abilities/caltrops.md)              | 10  |
+| [Decoy](../abilities/decoy.md)                    | 10  |
+
 
 ### Talents
 * [Laser Platform](../talents/laser_platform.md)
-* [Alarm](../talents/alarm.md)
+* [Laser Trap](../talents/lasertrap.md)
 * [Rapid Assembly](../talents/rapid_assembly.md)
 * [Precision Tune](../talents/precision_tune.md)
 * [Storage Upgrade](../talents/storage_upgrade.md)
